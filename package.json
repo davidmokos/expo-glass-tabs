@@ -1,6 +1,6 @@
 {
   "name": "expo-glass-tabs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Floating liquid-glass tab bar for Expo Router — minimize-on-scroll, sliding highlight, finger scrubbing with haptics, and progressive edge blur.",
   "main": "build/index.js",
   "types": "build/index.d.ts",
