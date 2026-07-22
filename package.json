@@ -33,7 +33,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/davidmokos/expo-glass-tabs.git"
+    "url": "git+https://github.com/davidmokos/expo-glass-tabs.git"
   },
   "bugs": {
     "url": "https://github.com/davidmokos/expo-glass-tabs/issues"
@@ -69,5 +69,8 @@
     "react-native-safe-area-context": "~5.7.0",
     "react-native-screens": "4.25.2",
     "typescript": "~6.0.3"
+  },
+  "overrides": {
+    "react-dom": "$react"
   }
 }
